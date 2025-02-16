@@ -1,0 +1,1 @@
+::: cryptofeed_questdb.foo
